@@ -1,5 +1,11 @@
 ## Hi there 👋
+# 👋 Hi, I'm Shamim Khan
 
+- 🔭 I’m a PHP & Laravel Developer
+- 🌱 I’m currently learning AWS & Docker
+- 💬 Ask me about PHP, Laravel, APIs
+- 📫 How to reach me: skhan.iilm@gmail.com
+- ⚡ Fun fact: I love cricket and clean code
 <!--
 **shamim137/shamim137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
