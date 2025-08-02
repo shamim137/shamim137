@@ -25,9 +25,70 @@
 
 ## 📌 Featured Projects
 
-- ✨ [Project 1 Name](#) – Short description and tech used
-- ✨ [Project 2 Name](#)
-- ✨ [Project 3 Name](#)
+●	http://ncct.ac.in/ncctintranet
+●	https://wisaindia.com/
+●	https://www.indospirit.com/
+●	https://www.glovius.com/
+●	https://camworks.com/
+●	 https://dfmpro.com/
+●	 https://thaifinddate.com/
+●	 https://www.myvisasavenue.com
+●	 https://justpathways.ca
+●	 http://pbit.co.in/
+●	 Ihs travels (ihsdreamtravels.com) 
+●	 srcsolutions.in
+●	 http://rslegalrights.com
+●	 http://chenitv.tk
+●	 http://conserv.co.in
+●	 http://mahaitapi.pbit.co.in
+●	 www.cacheithub.com
+●	 http://www.fashiondealstyle.com
+●	 Silk (Sericulture Information Linkages and Knowledge System) (silks.csb.gov.in)
+●	 Human first foundations (humanityfirstfoundation.org)
+●	 Add value consultancy services (www.addvalueconsultancyservices.com
+●	 Welcome to Department of Public Enterprises (dpe.nic.in)
+●	 Central power research institute (cpri.in)
+●	 Central Seri cultural Research & Training Institute (CSRTI)
+●	 Deshbandhu college. (www.deshbandhucollege.ac.in)
+●	 TLS Group India (tlsgroup.co.in)
+●	 Total it software Solutions Pvt. Ltd.(tiss.co.in)
+●	 National council of co-operative training (ncct.ac.in)
+●	 Nehru place It hot (npithot.com)
+●	 Vardhman Impex India( healthmedicament.com)
+●	 Mosaic press (www.mosaic-press.com)
+●	 www.taxforsure.in
+●	 MGM central Medical Library (mgmlibrary.com)
+●	 All India institute of speech and hearing (aiish.ac.in)
+●	 www.dgde.gov.in
+●	 www.pondiuni.edu.in
+●	http://uddkar.gov.in
+●	http://jharkhandcomtax.gov.in
+●	http://dsitsolutions.co.in
+●	https://www.bizsurface.com
+●	https://npithot.com
+●	http://www.itcpltech.com
+●	http://www.vtcpltech.com
+●	http://champsadda.com
+●	http://cachedigitech.com
+●	http://www.azane.in
+●	http://andamanexcursion.com
+●	https://www.glitzfashiondeal.in
+●	https://www.transactionpoint.in
+●	http://croeeglobal-test.ap-northeast-1.elasticbeanstalk.com
+●	http://trendmeup.in
+●	https://amconsultksa.com
+●	https://atladch.com
+●	https://safety-innovations.sa.com/
+●	https://www.visasavenue.com
+●	https://studentvisasavenue.com
+●	https://www.australiapravenue.com
+●	https://www.canadapravenue.com
+●	http://mywishbag.com/
+●	https://www.visasavenuecomplaints.com
+●	https://mcfttclib.indianrailways.gov.in/
+●	https://www.ushawatersolutions.com
+
+
 
 ---
 
